@@ -1,0 +1,13 @@
+lghub, winget
+steam, winget
+chrome, winget
+Creative Cloud, winget
+AnkerMake, winget
+discord, winget
+slack, winget
+line, winget
+razer synapse, winget
+office365, winget
+geforce experience, winget
+nvidia broadcast, winget
+git, winget
